@@ -1,5 +1,19 @@
 {
   "dependencies": {
+    "com.coffee.upm-git-extension": {
+      "version": "https://github.com/mob-sakai/UpmGitExtension.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "c5bd85b033ee9994cf7b4d711479e2602d42c639"
+    },
+    "com.serializabledictionary": {
+      "version": "https://github.com/Fangjun-Zhou/Unity-SerializableDictionary.git#upm-serializabledictionary",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "9bc332f23c44fd68484e16a2d769a1b0e9f216b2"
+    },
     "com.unity.collab-proxy": {
       "version": "1.11.2",
       "depth": 0,
