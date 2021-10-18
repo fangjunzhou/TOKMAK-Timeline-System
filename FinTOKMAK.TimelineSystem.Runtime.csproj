@@ -53,6 +53,9 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Package\Runtime\TimelineSystem.cs" />
+     <Compile Include="Assets\Package\Runtime\Timeline.cs" />
+     <Compile Include="Assets\Package\Runtime\PlayableNode.cs" />
+     <Compile Include="Assets\Package\Runtime\CheckNode.cs" />
      <None Include="Assets\Package\Runtime\FinTOKMAK.TimelineSystem.Runtime.asmdef" />
  <Reference Include="UnityEngine">
  <HintPath>D:/Program Files/Unity Editor/2020.3.20f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
