@@ -7,6 +7,13 @@
       "dependencies": {},
       "hash": "c5bd85b033ee9994cf7b4d711479e2602d42c639"
     },
+    "com.dbrizov.naughtyattributes": {
+      "version": "https://github.com/dbrizov/NaughtyAttributes.git#v2.1.1",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "6ff42768879f6d3721f27c1fc1ba0c1d145a3f27"
+    },
     "com.serializabledictionary": {
       "version": "https://github.com/Fangjun-Zhou/Unity-SerializableDictionary.git#upm-serializabledictionary",
       "depth": 0,
