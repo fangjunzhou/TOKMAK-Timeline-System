@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinTOKMAK.TimelineSystem.Runtime", "FinTOKMAK.TimelineSystem.Runtime.csproj", "{c4bbddf5-f37d-565e-e4ba-799955c7f80f}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{1f4e5dce-f633-9165-7f47-83d5fbeb9434}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{c4bbddf5-f37d-565e-e4ba-799955c7f80f}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{c4bbddf5-f37d-565e-e4ba-799955c7f80f}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{c4bbddf5-f37d-565e-e4ba-799955c7f80f}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1f4e5dce-f633-9165-7f47-83d5fbeb9434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1f4e5dce-f633-9165-7f47-83d5fbeb9434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1f4e5dce-f633-9165-7f47-83d5fbeb9434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1f4e5dce-f633-9165-7f47-83d5fbeb9434}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
