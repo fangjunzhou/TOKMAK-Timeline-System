@@ -57,6 +57,9 @@
      <Compile Include="Assets\Package\Runtime\TimelineSystem.cs" />
      <Compile Include="Assets\Package\Runtime\AnimEventInvoker.cs" />
      <Compile Include="Assets\Package\Runtime\Timeline.cs" />
+     <Compile Include="Assets\Package\Runtime\TimelineEventManager.cs" />
+     <Compile Include="Assets\Package\Runtime\TimelineEventAttribute.cs" />
+     <Compile Include="Assets\Package\Runtime\TimelineEventSettings.cs" />
      <None Include="Assets\Package\Runtime\FinTOKMAK.TimelineSystem.Runtime.asmdef" />
  <Reference Include="UnityEngine">
  <HintPath>D:/Program Files/Unity Editor/2020.3.20f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
@@ -648,6 +651,15 @@
  </Reference>
  <Reference Include="SerializableDict.Runtime">
  <HintPath>D:/Unity Project/TOKMAK-Timeline-System/Library/ScriptAssemblies/SerializableDict.Runtime.dll</HintPath>
+ </Reference>
+ <Reference Include="FinTOKMAK.EventSystem.Runtime">
+ <HintPath>D:/Unity Project/TOKMAK-Timeline-System/Library/ScriptAssemblies/FinTOKMAK.EventSystem.Runtime.dll</HintPath>
+ </Reference>
+ <Reference Include="com.hextantstudios.utilities">
+ <HintPath>D:/Unity Project/TOKMAK-Timeline-System/Library/ScriptAssemblies/com.hextantstudios.utilities.dll</HintPath>
+ </Reference>
+ <Reference Include="Hextant Utilities">
+ <HintPath>D:/Unity Project/TOKMAK-Timeline-System/Library/ScriptAssemblies/Hextant Utilities.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
  <HintPath>D:/Unity Project/TOKMAK-Timeline-System/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
