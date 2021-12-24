@@ -41,6 +41,8 @@
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0",
     "com.serializabledictionary": "https://github.com/Fangjun-Zhou/Unity-SerializableDictionary.git#upm-serializabledictionary",
-    "com.dbrizov.naughtyattributes": "https://github.com/dbrizov/NaughtyAttributes.git#v2.1.1"
+    "com.dbrizov.naughtyattributes": "https://github.com/dbrizov/NaughtyAttributes.git#v2.1.1",
+    "com.fintokmak.universaleventsystem": "https://github.com/Fangjun-Zhou/TOKMAK-Universal-Event-Release.git#main",
+    "com.hextantstudios.utilities": "https://github.com/hextantstudios/com.hextantstudios.utilities.git"
   }
 }

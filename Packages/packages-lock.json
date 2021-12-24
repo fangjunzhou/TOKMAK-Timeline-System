@@ -14,6 +14,20 @@
       "dependencies": {},
       "hash": "6ff42768879f6d3721f27c1fc1ba0c1d145a3f27"
     },
+    "com.fintokmak.universaleventsystem": {
+      "version": "https://github.com/Fangjun-Zhou/TOKMAK-Universal-Event-Release.git#main",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "27f35ce20247538d26524386888b065f81269fc0"
+    },
+    "com.hextantstudios.utilities": {
+      "version": "https://github.com/hextantstudios/com.hextantstudios.utilities.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "d6230d06ab6cbc7379d7e378f2c2b5d9b5ab9a91"
+    },
     "com.serializabledictionary": {
       "version": "https://github.com/Fangjun-Zhou/Unity-SerializableDictionary.git#upm-serializabledictionary",
       "depth": 0,
