@@ -692,6 +692,10 @@
       <Project>{c4bbddf5-f37d-565e-e4ba-799955c7f80f}</Project>
       <Name>FinTOKMAK.TimelineSystem.Runtime</Name>
     </ProjectReference>
+    <ProjectReference Include="FinTOKMAK.TimelineSystem.Editor.csproj">
+      <Project>{4428d490-87b6-da0d-a4bf-690d148fffd1}</Project>
+      <Name>FinTOKMAK.TimelineSystem.Editor</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.

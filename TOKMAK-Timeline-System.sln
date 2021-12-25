@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinTOKMAK.TimelineSystem.Ru
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{1f4e5dce-f633-9165-7f47-83d5fbeb9434}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinTOKMAK.TimelineSystem.Editor", "FinTOKMAK.TimelineSystem.Editor.csproj", "{4428d490-87b6-da0d-a4bf-690d148fffd1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{1f4e5dce-f633-9165-7f47-83d5fbeb9434}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1f4e5dce-f633-9165-7f47-83d5fbeb9434}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1f4e5dce-f633-9165-7f47-83d5fbeb9434}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4428d490-87b6-da0d-a4bf-690d148fffd1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4428d490-87b6-da0d-a4bf-690d148fffd1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4428d490-87b6-da0d-a4bf-690d148fffd1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4428d490-87b6-da0d-a4bf-690d148fffd1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

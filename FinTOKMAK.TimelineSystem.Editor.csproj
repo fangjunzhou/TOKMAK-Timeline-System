@@ -52,6 +52,8 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\Package\Editor\AnimationTimelineEventEditor.cs" />
+     <Compile Include="Assets\Package\Editor\TimelineEventDrawer.cs" />
      <None Include="Assets\Package\Editor\FinTOKMAK.TimelineSystem.Editor.asmdef" />
  <Reference Include="UnityEngine">
  <HintPath>D:/Program Files/Unity Editor/2020.3.20f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
@@ -646,6 +648,15 @@
  </Reference>
  <Reference Include="System.Xml.XPath.XDocument">
  <HintPath>D:/Program Files/Unity Editor/2020.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Xml.XPath.XDocument.dll</HintPath>
+ </Reference>
+ <Reference Include="FinTOKMAK.EventSystem.Editor">
+ <HintPath>D:/Unity Project/TOKMAK-Timeline-System/Library/ScriptAssemblies/FinTOKMAK.EventSystem.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="FinTOKMAK.EventSystem.Runtime">
+ <HintPath>D:/Unity Project/TOKMAK-Timeline-System/Library/ScriptAssemblies/FinTOKMAK.EventSystem.Runtime.dll</HintPath>
+ </Reference>
+ <Reference Include="com.hextantstudios.utilities">
+ <HintPath>D:/Unity Project/TOKMAK-Timeline-System/Library/ScriptAssemblies/com.hextantstudios.utilities.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
  <HintPath>D:/Unity Project/TOKMAK-Timeline-System/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
