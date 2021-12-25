@@ -54,6 +54,7 @@
   <ItemGroup>
      <Compile Include="Assets\Package\Editor\AnimationTimelineEventEditor.cs" />
      <Compile Include="Assets\Package\Editor\TimelineEventDrawer.cs" />
+     <Compile Include="Assets\Package\Editor\TimelineEditor.cs" />
      <None Include="Assets\Package\Editor\FinTOKMAK.TimelineSystem.Editor.asmdef" />
  <Reference Include="UnityEngine">
  <HintPath>D:/Program Files/Unity Editor/2020.3.20f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
