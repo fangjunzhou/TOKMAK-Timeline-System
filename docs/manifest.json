@@ -1,0 +1,296 @@
+{
+  "homepages": [],
+  "source_base_path": "/builds/fintokmak/tokmak-timeline-system-release/docfx_project",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FinTOKMAK.TimelineSystem.Runtime.AnimEventInvoker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FinTOKMAK.TimelineSystem.Runtime.AnimEventInvoker.html",
+          "hash": "bgVGOEVZ6SaHeo5e054jpQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FinTOKMAK.TimelineSystem.Runtime.AnimOperationType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FinTOKMAK.TimelineSystem.Runtime.AnimOperationType.html",
+          "hash": "IVtI1FN+nxyeQka+vOlZmQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FinTOKMAK.TimelineSystem.Runtime.AnimatorDict.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FinTOKMAK.TimelineSystem.Runtime.AnimatorDict.html",
+          "hash": "kUgbQpwaX74N0aB15fvXog=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FinTOKMAK.TimelineSystem.Runtime.CheckNode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FinTOKMAK.TimelineSystem.Runtime.CheckNode.html",
+          "hash": "Kk3cYkk/NVHrEQc+DdI/gg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FinTOKMAK.TimelineSystem.Runtime.CheckNodeType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FinTOKMAK.TimelineSystem.Runtime.CheckNodeType.html",
+          "hash": "GK1T2Ij0gBxR/Bz0Q7hBXw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FinTOKMAK.TimelineSystem.Runtime.PlayableNode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FinTOKMAK.TimelineSystem.Runtime.PlayableNode.html",
+          "hash": "xuLnV10j0n3w4R1kAkXT6w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FinTOKMAK.TimelineSystem.Runtime.PlayableNodeType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FinTOKMAK.TimelineSystem.Runtime.PlayableNodeType.html",
+          "hash": "3PgcjogSCHaPI1svAV+g5g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FinTOKMAK.TimelineSystem.Runtime.Timeline.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FinTOKMAK.TimelineSystem.Runtime.Timeline.html",
+          "hash": "8TWnzEO6yKsNXs7EsGtczQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FinTOKMAK.TimelineSystem.Runtime.TimelineEventAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FinTOKMAK.TimelineSystem.Runtime.TimelineEventAttribute.html",
+          "hash": "unPJgWq/Nm8vH1nSzv/SaQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FinTOKMAK.TimelineSystem.Runtime.TimelineEventManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FinTOKMAK.TimelineSystem.Runtime.TimelineEventManager.html",
+          "hash": "h15SHIpJJBXtRK3biw3Hyg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FinTOKMAK.TimelineSystem.Runtime.TimelineEventSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FinTOKMAK.TimelineSystem.Runtime.TimelineEventSettings.html",
+          "hash": "St+w6isjZue1M9/JFUIiDA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FinTOKMAK.TimelineSystem.Runtime.TimelineSystem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FinTOKMAK.TimelineSystem.Runtime.TimelineSystem.html",
+          "hash": "wmuFLjm7ntNGaLgfgaAHAg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/FinTOKMAK.TimelineSystem.Runtime.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/FinTOKMAK.TimelineSystem.Runtime.html",
+          "hash": "OFQTfmufVb/mbqzdtkll4A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Package.Editor.AnimationTimelineEventEditor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Package.Editor.AnimationTimelineEventEditor.html",
+          "hash": "bZPmAAdgYFegcip3nd3FUQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Package.Editor.TimelineEditor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Package.Editor.TimelineEditor.html",
+          "hash": "6tWNYGI7nW+WYpRkkjELAA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Package.Editor.TimelineEventDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Package.Editor.TimelineEventDrawer.html",
+          "hash": "IzYi7vgpkvfBtf8c5JyGWA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Package.Editor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Package.Editor.html",
+          "hash": "/wmLVB8zbcNGh8L2815Ydg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "qesEfTQ9kxJPRjOWKj14Bw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "e+U1RrtCy3uHvKhZ7MWfmg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "ZzYVJXv0K71rTGiGuG+9Cw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 3,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 17,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: last post processor info is null.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
