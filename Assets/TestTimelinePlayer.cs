@@ -20,16 +20,19 @@ public class TestTimelinePlayer : MonoBehaviour
     /// </summary>
     public TimelineSystem timelineSystem;
 
+    [TimelineEvent]
+    public string targetEvent;
+
     #endregion
 
     private void Awake()
     {
-        timelineSystem.RegisterEvent("root/TEST_TIMELINE/TEST_EVENT", TestEventListener);
+        timelineSystem.RegisterEvent(targetEvent, TestEventListener);
     }
 
     private void OnDestroy()
     {
-        timelineSystem.UnRegisterEvent("root/TEST_TIMELINE/TEST_EVENT", TestEventListener);
+        timelineSystem.UnRegisterEvent(targetEvent, TestEventListener);
     }
 
     #region Public Methods
