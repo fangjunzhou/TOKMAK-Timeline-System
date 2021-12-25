@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using FinTOKMAK.EventSystem.Runtime;
 using FinTOKMAK.TimelineSystem.Runtime;
 using NaughtyAttributes;
 using UnityEngine;
@@ -23,12 +24,12 @@ public class TestTimelinePlayer : MonoBehaviour
 
     private void Awake()
     {
-        timelineSystem.RegisterEvent("test", TestEventListener);
+        timelineSystem.RegisterEvent("root/TEST_TIMELINE/TEST_EVENT", TestEventListener);
     }
 
     private void OnDestroy()
     {
-        timelineSystem.UnRegisterEvent("test", TestEventListener);
+        timelineSystem.UnRegisterEvent("root/TEST_TIMELINE/TEST_EVENT", TestEventListener);
     }
 
     #region Public Methods
@@ -49,7 +50,7 @@ public class TestTimelinePlayer : MonoBehaviour
     /// <summary>
     /// The test event listener.
     /// </summary>
-    private void TestEventListener()
+    private void TestEventListener(IEventData data)
     {
         Debug.Log("Event invoked.");
     }

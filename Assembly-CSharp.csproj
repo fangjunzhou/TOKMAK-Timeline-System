@@ -677,6 +677,15 @@
  <Reference Include="com.hextantstudios.utilities">
  <HintPath>D:/Unity Project/TOKMAK-Timeline-System/Library/ScriptAssemblies/com.hextantstudios.utilities.dll</HintPath>
  </Reference>
+ <Reference Include="Unity.Sysroot.Linux_x86_64">
+ <HintPath>D:/Unity Project/TOKMAK-Timeline-System/Library/ScriptAssemblies/Unity.Sysroot.Linux_x86_64.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Toolchain.Win-x86_64-Linux-x86_64">
+ <HintPath>D:/Unity Project/TOKMAK-Timeline-System/Library/ScriptAssemblies/Unity.Toolchain.Win-x86_64-Linux-x86_64.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.SysrootPackage.Editor">
+ <HintPath>D:/Unity Project/TOKMAK-Timeline-System/Library/ScriptAssemblies/Unity.SysrootPackage.Editor.dll</HintPath>
+ </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="FinTOKMAK.TimelineSystem.Runtime.csproj">
